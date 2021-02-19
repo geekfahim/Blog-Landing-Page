@@ -1,4 +1,4 @@
-# My project's README
+# Blog Assignment
 
 ## This is a landing page design and all the css written in pseudocode elements.
 
